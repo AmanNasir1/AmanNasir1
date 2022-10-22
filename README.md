@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmanNasir1
-- 🌱 I’m currently learning Javascript ,MongoDB, Flutter, Dart, Django, Firebase
--     Ask me about Html Css Tailwind Javascript
+- 🌱 I’m currently learning Javascript ,MongoDB, Flutter, Dart, Django
+-     Ask me about Html Css Tailwind Javascript,Firebase
 - 📫 How to reach me aman.nasir231@gmail.com
 
 <!---
